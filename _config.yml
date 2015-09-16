@@ -1,0 +1,14 @@
+# Site settings
+title: Dev# Aleksey Voronets Blog
+email: avoronets@outlook.com
+description: > # this means to ignore newlines until "baseurl:"
+  Блог о программировании и не только
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://yourdomain.com" # the base hostname & protocol for your site
+twitter_username: AlexRussinov
+github_username:  alexrussinov
+
+# Build settings
+markdown: kramdown
+kramdown:
+  input: GFM # Enable GitHub Flavored Markdown (fenced code blocks)
