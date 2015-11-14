@@ -1,6 +1,6 @@
 # Site settings
 title: Dev# { Aleksey Voronets blog }
-email: avoronets@outlook.com
+email: alvoronets@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   Блог о программировании и не только...
 baseurl: "" # the subpath of your site, e.g. /blog/

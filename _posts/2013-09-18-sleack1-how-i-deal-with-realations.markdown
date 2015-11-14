@@ -1,8 +1,9 @@
 ---
+comments: true
 layout: post
 title:  "Slick 1.0 - How I deal with relations"
 date:   2013-09-18 18:09:01
-categories: programming scala offheap
+categories: programming scala slick
 ---
 In this post I want to show you on example how I deal with relations in Slick. I don't pretend that it's the best or the most elegant solution, so feel free to leave your comments :). Before we dive in to the relations, I want to start with an observation of some basics.
 

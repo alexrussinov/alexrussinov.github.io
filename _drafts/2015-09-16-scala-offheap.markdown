@@ -1,4 +1,5 @@
 ---
+comments: true
 layout: post
 title:  "Scala дорога Offheap"
 date:   2015-09-16 09:43:01
